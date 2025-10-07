@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Dinero_Extra_MesaRequenaElena": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
